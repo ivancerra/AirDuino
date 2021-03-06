@@ -16,10 +16,10 @@
  * 
  *                 Video: https://youtu.be/
  * ************************************************************************
- * Emulacion de BreakOut para Arduino 
+ * Monitorización de calidad de aire para Arduino 
  * 
  * Componentes usados y conexiones:
- * 1. Arduino UNO.
+ * 1. Arduino NANO.
  * 2. OLED AZDelivery SH 1106 I2C 128x64
  *    Conexiones: 
  *        · SCK -> A5
